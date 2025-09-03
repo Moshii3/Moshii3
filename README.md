@@ -1,6 +1,6 @@
 <!-- Wavy Banner with Name -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%20World!%20I'm%20Rodrigo%20Salandanan%20🌊&fontSize=40&fontAlign=50&fontAlignY=40&color=gradient" alt="Wavy Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%20World!%20I'm%20Rodrigo%20Salandanan%20&fontSize=40&fontAlign=50&fontAlignY=40&color=gradient" alt="Wavy Banner" />
 </p>
 
 <!-- Animated typing effect for intro -->
