@@ -1,6 +1,11 @@
-<!-- Animated typing effect for your name -->
+<!-- Wavy Banner with Name -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1000&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+RodrigoSalandanan;Aspiring+Data+Scientist;20-y%2Fo+Student+at+CCST;From+Upper+Tuyo%2C+Balanga+City" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%20World!%20I'm%20Rodrigo%20Salandanan%20🌊&fontSize=40&fontAlign=50&fontAlignY=40&color=gradient" alt="Wavy Banner" />
+</p>
+
+<!-- Animated typing effect for intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;20-y%2Fo+Student+at+CCST;From+Upper+Tuyo%2C+Balanga+City" alt="Typing SVG" />
 </p>
 
 ---
@@ -48,7 +53,7 @@
 ---
 
 ## 🤝 Let’s Connect
-- 📧 Email: salandananrodrigo302004@gmail.com 
+- 📧 Email: **salandananrodrigo302004@gmail.com**  
 - 🌐 Portfolio: *Coming Soon!*  
 - 💻 GitHub: [github.com/Moshii3](https://github.com/Moshii3)  
 
