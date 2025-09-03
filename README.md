@@ -1,10 +1,10 @@
-# 💕 Hello, I'm Rodrigo Salandanan 💕  
+# 👉Hello, I'm Rodrigo Salandanan👈 
 
 ⚡ **Aspiring Data Scientist** | 🎓 20-y/o Student at CCST | 🌍 From Upper Tuyo, Balanga City  
 
 ---
 
-## 🌸 About Me
+## 🌟 About Me
 - 🎓 Learning **Data Science** at CCST  
 - 🐍 Exploring **Python, SQL, Git, and Machine Learning**  
 - ❤️ I love coding, data, and creating beautiful projects  
@@ -38,7 +38,7 @@
 
 ---
 
-## 💖 Cute Love Animation
+## fav meme
 <p align="center">
   <img src="https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif" width="200" alt="love animation">
   <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="200" alt="heart beat animation">
@@ -47,8 +47,8 @@
 
 ---
 
-## 🌹 Special Graph (Love Version ❤️)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Moshii3&theme=redical&bg_color=141321&color=ff7eb6&line=ff4b7d&point=f9c1d9&area=true&hide_border=true)  
+## Activity graph
+[Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Moshii3&theme=redical&bg_color=141321&color=ff7eb6&line=ff4b7d&point=f9c1d9&area=true&hide_border=true)  
 
 ---
 
